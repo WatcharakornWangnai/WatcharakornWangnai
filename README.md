@@ -3,11 +3,15 @@
 🔬 Senior research executive in aquaculture, exploring AI & app development  
 🎯 Building tools for senior care (anti-scam, remote parent care)  
 📚 Currently learning: Python (Coursera, U-Michigan) → React Native  
-🌱 Background: Statistics, Bioassay experiment, Disease research, Delphi, Copilot studio, Master degree of science (Medical Technology)
-    
+🧪 Background: 
+   Programming (Delphi/Clipper/BASIC since 1990s),
+   Statistics, Bioassay experimentation, Disease research
+   
+💪 Strengths: OOP, client-server, database design, 
+   research methodology, statistical analysis   
 #### What I'm working on
 - 🐍 Python for Everybody (Michigan) — Course 3/5 in progress
-- 📱 Planning: Anti-scam app for Thai elderly
+- 📱 Planning: ...... app for Thai elderly
 - 🤖 Exploring: Claude API, Supabase, Next.js
 
 #### Tech stack I'm learning
