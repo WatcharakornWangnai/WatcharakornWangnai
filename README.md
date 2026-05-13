@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Watcharakorn  👋
 
-<!--
-**WatcharakornWangnai/WatcharakornWangnai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Senior research executive in aquaculture, exploring AI & app development  
+🎯 Building tools for senior care (anti-scam, remote parent care)  
+📚 Currently learning: Python (Coursera, U-Michigan) → React Native  
+🌱 Background: Statistics, Bioassay experiment, Disease research, Delphi, Copilot studio, Master degree of science (Medical Technology)
+    
+#### What I'm working on
+- 🐍 Python for Everybody (Michigan) — Course 3/5 in progress
+- 📱 Planning: Anti-scam app for Thai elderly
+- 🤖 Exploring: Claude API, Supabase, Next.js
 
-Here are some ideas to get you started:
+#### Tech stack I'm learning
+`Python` `JavaScript` `React Native` `Next.js` `Supabase` `Claude API`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/watcharakorn-wangnai-1b731a407)
