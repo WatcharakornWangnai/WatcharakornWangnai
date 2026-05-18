@@ -10,7 +10,7 @@
 💪 Strengths: OOP, client-server, database design, 
    research methodology, statistical analysis   
 #### What I'm working on
-- 🐍 Python for Everybody (Michigan) — Course 5/5 in progress
+- 🐍 Python for Everybody (Michigan) — Compeleted learning
 - 📱 Planning: Build particular apps for Thai elderly
 - 🤖 Exploring: Claude API, Supabase, Next.js
 
