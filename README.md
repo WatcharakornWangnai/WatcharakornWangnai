@@ -5,12 +5,12 @@
 📚 Currently learning: Python (Coursera, U-Michigan) → React Native  
 🧪 Background: 
    Programming (Delphi/Clipper/BASIC since 1990s),
-   Statistics, Bioassay experimentation, Disease research
-   
+   Statistics, Bioassay experimentation, Disease research  
 💪 Strengths: OOP, client-server, database design, 
    research methodology, statistical analysis   
 #### What I'm working on
 - 🐍 Python for Everybody (Michigan) — Compeleted learning
+- ➡️ Javscript, React Native - In progress
 - 📱 Planning: Build particular apps for Thai elderly
 - 🤖 Exploring: Claude API, Supabase, Next.js
 
